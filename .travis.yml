@@ -19,7 +19,7 @@ deploy:
   app: docker-react-app-1
   env: Dockerreactapp1-env
   bucket_name: elasticbeanstalk-ap-northeast-2-087149154058
-  bucket_path: docker-react-app
+  bucket_path: docker-react-app-1
   on:
     branch: master
   
